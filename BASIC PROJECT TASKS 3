@@ -1,0 +1,1204 @@
+INTERNSHIP : BUSNINESS ANALYST 
+NAME : MANDA VENKAIAH
+
+INTRODUCTION FOR THE BUSINESS ANALYST INTERNSHIP :
+
+
+GIVE ME BUSINESS ANALYST INTERNSHIP INTRODUCTIONA AND CONTENT?
+
+ChatGPT
+Introduction
+Dear [Hiring Manager's Name],
+
+I am writing to express my interest in the Business Analyst Internship position at [Company Name]. With a strong academic background in [Your Major] and hands-on experience in data analysis, I am excited about the opportunity to contribute to your team. My passion for leveraging data to drive business decisions aligns well with the goals of [Company Name], and I am eager to bring my analytical skills and enthusiasm to this role.
+
+During my studies at [Your University], I have developed a solid foundation in business analysis, statistics, and data management. My coursework and projects have equipped me with the ability to analyze complex data sets, identify trends, and generate actionable insights. Additionally, my proficiency in tools such as Excel, SQL, and Tableau allows me to effectively visualize data and present findings in a clear and compelling manner.
+
+I am particularly drawn to [Company Name] because of your innovative approach to [Industry/Field] and your commitment to [specific company values or projects]. I am confident that my analytical abilities, combined with my strong problem-solving skills and attention to detail, would make me a valuable asset to your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and enthusiasms can contribute to the continued success of [Company Name].
+
+Sincerely,
+[Your Name]
+[Your Contact Information]
+[LinkedIn Profile]
+
+Content
+1. Introduction to Business Analysis
+
+Overview of business analysis
+Importance in organizational success
+Key roles and responsibilities of a business analyst
+2. Understanding Business Needs
+
+Identifying and documenting business requirements
+Stakeholder analysis
+Techniques for gathering and prioritizing requirements
+3. Data Analysis and Interpretation
+
+Basics of data analysis
+Tools and techniques for data collection
+Interpreting data to inform business decisions
+4. Process Modeling
+
+Introduction to process modeling
+Commonly used process modeling techniques (e.g., BPMN, UML)
+Creating and analyzing process models
+5. Requirement Analysis and Documentation
+
+Best practices for writing clear and concise requirements
+Use cases and user stories
+Requirement traceability and management
+6. Solution Assessment and Validation
+
+Evaluating potential solutions
+Developing and conducting tests
+Ensuring the solution meets business needs
+7. Business Intelligence and Reporting
+
+Introduction to business intelligence
+Tools for data visualization (e.g., Tableau, Power BI)
+Creating reports and dashboards
+8. Communication and Collaboration
+
+Effective communication skills for business analysts
+Collaborating with cross-functional teams
+Presenting findings to stakeholders
+9. Project Management Fundamentals
+
+Basics of project management
+Role of a business analyst in project management
+Techniques for managing project scope and timelines
+10. Case Studies and Practical Applications
+
+Real-world examples of business analysis in action
+Hands-on projects and simulations
+Lessons learned and best practices
+11. Emerging Trends in Business Analysis
+
+Impact of technology on business analysis (e.g., AI, machine learning)
+The future of business analysis
+Skills and competencies for the next generation of business analysts
+GIVE ME FORMAT IN PASSAGE IN CONTENT?
+
+ChatGPT
+Introduction to Business Analysis
+Business analysis is a critical discipline that helps organizations identify their needs, define solutions, and deliver value to stakeholders. Business analysts play a key role in bridging the gap between business objectives and technology solutions, ensuring that projects meet their goals effectively and efficiently. This section provides an overview of business analysis, emphasizing its importance in driving organizational success and outlining the primary roles and responsibilities of a business analyst.
+
+Understanding Business Needs
+Understanding and documenting business needs is a fundamental aspect of business analysis. This involves identifying the requirements of various stakeholders, prioritizing these needs, and ensuring they align with the organization’s strategic objectives. Techniques for gathering requirements include interviews, surveys, and workshops. Effective stakeholder analysis helps in understanding the influence and interest of different parties, facilitating better communication and collaboration throughout the project lifecycle.
+
+Data Analysis and Interpretation
+Data analysis is at the heart of business analysis, enabling analysts to derive insights from complex data sets. This involves collecting relevant data, using analytical tools and techniques to examine it, and interpreting the results to inform business decisions. Proficiency in tools such as Excel, SQL, and data visualization software like Tableau is essential. Analysts must be able to present data in a clear, understandable manner to support decision-making processes.
+
+Process Modeling
+Process modeling is a technique used to represent the processes of an organization in a structured format. Commonly used process modeling techniques include Business Process Model and Notation (BPMN) and Unified Modeling Language (UML). These models help in visualizing the current state of processes and designing improvements. Creating and analyzing process models allows business analysts to identify inefficiencies and propose solutions that enhance operational efficiency.
+
+Requirement Analysis and Documentation
+Writing clear and concise requirements is a critical skill for business analysts. This section covers best practices for documenting requirements, including the use of use cases and user stories to capture functional and non-functional requirements. Requirement traceability ensures that each requirement is tracked throughout the project lifecycle, maintaining alignment with business goals and stakeholder expectations.
+
+Solution Assessment and Validation
+Evaluating potential solutions and validating that they meet business needs are crucial steps in business analysis. This involves assessing different solution options, developing and conducting tests, and ensuring that the implemented solution aligns with the documented requirements. Validation activities help in identifying any gaps or issues before the solution is fully deployed, reducing risks and enhancing project success.
+
+Business Intelligence and Reporting
+Business intelligence involves the use of data analytics and visualization tools to support decision-making. This section introduces key business intelligence concepts and tools such as Tableau and Power BI. Creating reports and dashboards that provide actionable insights is an important skill for business analysts, helping organizations monitor performance and make informed decisions.
+
+Communication and Collaboration
+Effective communication and collaboration are essential for business analysts to succeed. This involves interacting with various stakeholders, understanding their perspectives, and conveying complex information in a clear and concise manner. Collaborating with cross-functional teams ensures that all aspects of a project are considered and that solutions are comprehensive and well-integrated. Presenting findings and recommendations to stakeholders in an impactful way is also crucial for gaining buy-in and driving project success.
+
+Project Management Fundamentals
+While not always the primary responsibility of a business analyst, understanding project management fundamentals is beneficial. This section covers the basics of project management, including scope management, timeline management, and the role of a business analyst in supporting project managers. Techniques for managing project scope and timelines ensure that projects stay on track and deliver the expected outcomes.
+
+Case Studies and Practical Applications
+Real-world case studies provide valuable insights into the application of business analysis in various industries. This section presents examples of successful projects, highlighting the role of business analysts in achieving project goals. Hands-on projects and simulations offer practical experience, reinforcing theoretical knowledge and demonstrating best practices in action. Lessons learned from these case studies help in understanding the challenges and solutions in real-world scenarios.
+
+Emerging Trends in Business Analysis
+The field of business analysis is continually evolving, with new technologies and methodologies shaping its future. This section explores the impact of emerging trends such as artificial intelligence, machine learning, and digital transformation on business analysis. It also discusses the skills and competencies that future business analysts will need to stay relevant and effective in a rapidly changing business environment.
+
+BASIC PROJECT TASK 1 :
+1.BASIC Project:
+Task 1 : Employee Attrition and Performance : Project Summary: Gain qualitative analysis skills in employee attrition, investigating who, when, and why events occur. Predict quantitative aspects of HR dynamics for the next 5-10 years. Achieve optimal talent utilization by maintaining a balance between attrition and retention. Utilize Excel for data cleaning, SQL for extraction, and Python or R for data analysis.
+
+SOLUTION AND COMPLETE CONTENT CODE FOR THE BUSNINESS ANALYST :
+
+To provide a complete content and theory for a business analyst focusing on the Employee Attrition and Performance project, we'll cover several key areas: understanding the business problem, data preparation, data analysis, predictive modeling, and insights for decision-making.
+
+Business Problem Understanding
+Objective:
+
+Gain qualitative insights into employee attrition.
+Investigate who, when, and why attrition events occur.
+Predict quantitative aspects of HR dynamics for the next 5-10 years.
+Achieve optimal talent utilization by balancing attrition and retention.
+Key Questions:
+
+Who is leaving the company?
+When are employees leaving?
+Why are employees leaving?
+How can we predict future attrition?
+What strategies can be implemented to improve retention?
+Data Preparation
+Data Collection:
+
+Gather data from HR systems, employee surveys, exit interviews, performance reviews, and other relevant sources.
+Data Cleaning:
+
+Remove duplicates and irrelevant records.
+Handle missing values by using appropriate methods (mean/median imputation, deletion, etc.).
+Ensure consistent data types (dates, numerical values, categorical values).
+Data Structuring:
+
+Organize data into relevant tables or datasets, ensuring each attribute is clearly defined (e.g., employee ID, age, department, tenure, performance rating, attrition status).
+Data Analysis
+Descriptive Analysis:
+
+Attrition Rate Calculation:
+Calculate the overall attrition rate and break it down by different segments (e.g., department, job role, age group).
+
+sql
+Copy code
+SELECT department, COUNT(*) as total_employees, 
+       SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) as attrition_count,
+       (SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*)) * 100 as attrition_rate
+FROM employee_data
+GROUP BY department;
+Performance Analysis:
+Examine the distribution of performance ratings across various departments and roles.
+
+sql
+Copy code
+SELECT department, AVG(performance_rating) as avg_performance
+FROM employee_data
+GROUP BY department;
+Visualization:
+
+Use Excel, Python (matplotlib, seaborn), or R (ggplot2) to create visualizations such as histograms, bar charts, box plots, and scatter plots.
+
+Example in Python:
+
+python
+Copy code
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Attrition by Department
+sns.countplot(x='department', hue='attrition', data=df)
+plt.title('Attrition by Department')
+plt.show()
+
+# Performance Rating Distribution
+sns.boxplot(x='department', y='performance_rating', data=df)
+plt.title('Performance Rating by Department')
+plt.show()
+Predictive Modeling
+Choosing the Right Model:
+
+For attrition prediction, use classification models like Logistic Regression, Decision Trees, Random Forests, or Gradient Boosting.
+Feature Selection:
+
+Identify relevant features such as age, salary, tenure, department, job role, performance rating, and work-life balance.
+Model Training and Evaluation:
+
+Split the data into training and testing sets.
+
+Train the model using the training set.
+
+Evaluate the model using metrics such as accuracy, precision, recall, and F1-score.
+
+Example in Python:
+
+python
+Copy code
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+# Feature selection
+X = df[['age', 'salary', 'tenure', 'performance_rating', 'work_life_balance']]
+y = df['attrition'].apply(lambda x: 1 if x == 'Yes' else 0)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Model training
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Prediction and evaluation
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+Insights and Decision-Making
+Key Insights:
+
+Identify the primary factors contributing to employee attrition.
+Highlight the departments or roles with the highest attrition rates.
+Analyze the correlation between performance ratings and attrition.
+Recommendations:
+
+Develop targeted retention strategies for high-risk groups.
+Implement initiatives to improve work-life balance and job satisfaction.
+Regularly review and adjust compensation and benefits to stay competitive.
+Future Predictions:
+
+Use the trained model to predict future attrition trends.
+Plan workforce requirements and talent acquisition strategies based on predictive insights.
+Conclusion
+Summarize the findings, emphasizing the impact of attrition on the organization and the importance of data-driven strategies to enhance employee retention and performance. Provide a strategic plan for ongoing monitoring and improvement of HR practices.
+
+By following this comprehensive guide, a business analyst can effectively analyze employee attrition and performance, providing valuable insights and actionable recommendations to the organization.
+
+To complete the Employee Attrition and Performance project quickly, you can follow these structured steps using Excel, SQL, and Python/R. Here is a comprehensive guide:
+
+Step-by-Step Guide
+1. Data Preparation and Cleaning (Excel)
+Import Data into Excel:
+
+Load your dataset into Excel.
+Ensure the data is in a structured format (rows and columns).
+Data Cleaning:
+
+Remove Duplicates: Ensure there are no duplicate records.
+Handle Missing Values: Identify and fill missing values where appropriate (mean, median, mode, or a placeholder).
+Correct Data Types: Ensure all columns have the correct data types (e.g., dates are formatted as dates, numerical data as numbers).
+Standardize Text: Ensure consistency in categorical data (e.g., 'Male', 'male', and 'M' should be standardized to one format).
+Data Validation:
+
+Check for outliers and inconsistencies.
+Validate the ranges of numerical values and the accuracy of categorical data.
+2. Data Extraction (SQL)
+Set Up SQL Environment:
+
+Set up a SQL database if not already available (MySQL, PostgreSQL, etc.).
+Import the cleaned dataset from Excel to the SQL database.
+Write SQL Queries:
+
+Basic Queries:
+sql
+Copy code
+SELECT * FROM employee_data;
+Attrition Analysis:
+sql
+Copy code
+SELECT COUNT(*) FROM employee_data WHERE attrition = 'Yes';
+Performance Metrics:
+sql
+Copy code
+SELECT department, AVG(performance_rating) FROM employee_data GROUP BY department;
+Join Operations (if multiple tables):
+sql
+Copy code
+SELECT e.employee_id, e.name, d.department_name
+FROM employees e
+JOIN departments d ON e.department_id = d.department_id;
+3. Data Analysis (Python/R)
+Set Up Environment:
+
+Install necessary libraries: pandas, numpy, matplotlib, seaborn (Python) or tidyverse (R).
+Load the cleaned data into a DataFrame.
+Exploratory Data Analysis (EDA):
+
+Python:
+
+python
+Copy code
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load data
+df = pd.read_csv('employee_data.csv')
+
+# Basic statistics
+print(df.describe())
+
+# Attrition count
+sns.countplot(x='attrition', data=df)
+plt.show()
+
+# Performance by department
+sns.boxplot(x='department', y='performance_rating', data=df)
+plt.show()
+R:
+
+R
+Copy code
+library(tidyverse)
+
+# Load data
+df <- read.csv('employee_data.csv')
+
+# Basic statistics
+summary(df)
+
+# Attrition count
+ggplot(df, aes(x=attrition)) + geom_bar()
+
+# Performance by department
+ggplot(df, aes(x=department, y=performance_rating)) + geom_boxplot()
+Predictive Analysis:
+
+Python (e.g., Logistic Regression for Attrition Prediction):
+
+python
+Copy code
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+# Feature selection
+X = df[['age', 'salary', 'years_at_company', 'department']]
+y = df['attrition']
+
+# One-hot encoding for categorical variables
+X = pd.get_dummies(X, drop_first=True)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Model training
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Prediction and evaluation
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+R (e.g., Logistic Regression for Attrition Prediction):
+
+R
+Copy code
+library(caret)
+
+# Feature selection
+features <- df %>% select(age, salary, years_at_company, department)
+response <- df$attrition
+
+# Train-test split
+set.seed(42)
+trainIndex <- createDataPartition(response, p = .8, list = FALSE)
+dataTrain <- df[trainIndex,]
+dataTest  <- df[-trainIndex,]
+
+# Model training
+model <- train(attrition ~ age + salary + years_at_company + department, data = dataTrain, method = "glm", family = "binomial")
+
+# Prediction and evaluation
+predictions <- predict(model, dataTest)
+confusionMatrix(predictions, dataTest$attrition)
+4. Interpretation and Reporting
+Visualize Key Findings:
+
+Use charts and graphs to highlight key findings (attrition rates, performance trends, etc.).
+Create Summary Reports:
+
+Compile a report with your findings, including visualizations and model performance metrics.
+Provide actionable insights and recommendations based on the analysis.
+Future Predictions:
+
+Based on the model, predict future attrition and performance trends.
+Provide a strategic plan for maintaining a balance between attrition and retention.
+By following these steps, you can efficiently complete the project while leveraging the strengths of each tool for specific tasks.
+
+
+BASIC PROJECT TASK 2:
+Task 2 : Predicting Customer Churn Rate Project Summary: It involves predicting the decline of customer rates. It has scope for stakeholders to identify setbacks in the business. It helps learn several statistical tools, such as SHAP (Shapley Additive exPlanations), RandomSearch, and GridSearch, for univariate and multivariate analysis on a retrieved dataset.
+
+SOLUTION AND COMPLETE CONTENT CODE FOR THE PROJECT:
+
+To complete the Predicting Customer Churn Rate project, we will follow a structured approach that includes understanding the business problem, data preparation, data analysis, predictive modeling, and insights for decision-making. This project will focus on using statistical tools and machine learning techniques to predict customer churn.
+
+Step-by-Step Guide
+1. Business Problem Understanding
+Objective:
+
+Predict the decline of customer rates (churn).
+Identify the factors leading to customer churn.
+Provide actionable insights to stakeholders to mitigate customer churn and improve retention strategies.
+Key Questions:
+
+What is the current churn rate?
+Which customers are likely to churn?
+What factors contribute to customer churn?
+How can the churn prediction model be used to improve retention strategies?
+Data Preparation
+Data Collection:
+
+Gather data from customer databases, CRM systems, transaction logs, customer service records, and any other relevant sources.
+Data Cleaning:
+
+Remove duplicates and irrelevant records.
+Handle missing values using appropriate methods (imputation, deletion, etc.).
+Ensure data types are consistent and correct (dates, numerical values, categorical values).
+Data Structuring:
+
+Organize data into relevant tables or datasets with clear attribute definitions (e.g., customer ID, age, tenure, monthly charges, contract type, churn status).
+Data Analysis
+Descriptive Analysis:
+
+Churn Rate Calculation:
+Calculate the overall churn rate and break it down by different segments (e.g., age group, tenure, contract type).
+
+sql
+Copy code
+SELECT contract_type, COUNT(*) as total_customers, 
+       SUM(CASE WHEN churn = 'Yes' THEN 1 ELSE 0 END) as churn_count,
+       (SUM(CASE WHEN churn = 'Yes' THEN 1 ELSE 0 END) / COUNT(*)) * 100 as churn_rate
+FROM customer_data
+GROUP BY contract_type;
+Exploratory Data Analysis (EDA):
+Analyze the distribution of numerical features and the relationship between features and churn.
+
+Example in Python:
+
+python
+Copy code
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Load data
+df = pd.read_csv('customer_data.csv')
+
+# Churn distribution
+sns.countplot(x='churn', data=df)
+plt.title('Churn Distribution')
+plt.show()
+
+# Monthly charges distribution
+sns.histplot(df['monthly_charges'], kde=True)
+plt.title('Monthly Charges Distribution')
+plt.show()
+
+# Churn by contract type
+sns.countplot(x='contract_type', hue='churn', data=df)
+plt.title('Churn by Contract Type')
+plt.show()
+Predictive Modeling
+Choosing the Right Model:
+
+Use classification models such as Logistic Regression, Decision Trees, Random Forests, Gradient Boosting, or more advanced techniques like XGBoost.
+Feature Selection and Engineering:
+
+Identify relevant features and engineer new features if necessary (e.g., customer tenure, engagement metrics).
+Model Training and Evaluation:
+
+Split the data into training and testing sets.
+
+Train the model using the training set.
+
+Evaluate the model using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
+
+Example in Python:
+
+python
+Copy code
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, roc_auc_score
+
+# Feature selection
+X = df[['age', 'tenure', 'monthly_charges', 'contract_type']]
+y = df['churn'].apply(lambda x: 1 if x == 'Yes' else 0)
+
+# One-hot encoding for categorical variables
+X = pd.get_dummies(X, drop_first=True)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Model training with Random Forest
+model = RandomForestClassifier(random_state=42)
+model.fit(X_train, y_train)
+
+# Prediction and evaluation
+y_pred = model.predict(X_test)
+y_pred_prob = model.predict_proba(X_test)[:, 1]
+print(classification_report(y_test, y_pred))
+print(f'ROC AUC Score: {roc_auc_score(y_test, y_pred_prob)}')
+Hyperparameter Tuning:
+
+Use GridSearchCV or RandomSearchCV to optimize hyperparameters.
+
+Example in Python:
+
+python
+Copy code
+from sklearn.model_selection import GridSearchCV
+
+param_grid = {
+    'n_estimators': [100, 200, 300],
+    'max_depth': [None, 10, 20, 30],
+    'min_samples_split': [2, 5, 10]
+}
+
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=3, scoring='roc_auc')
+grid_search.fit(X_train, y_train)
+best_model = grid_search.best_estimator_
+
+# Evaluate the best model
+y_pred_best = best_model.predict(X_test)
+y_pred_prob_best = best_model.predict_proba(X_test)[:, 1]
+print(classification_report(y_test, y_pred_best))
+print(f'Best ROC AUC Score: {roc_auc_score(y_test, y_pred_prob_best)}')
+Explainability with SHAP:
+
+Use SHAP to understand the impact of each feature on the model’s predictions.
+
+Example in Python:
+
+python
+Copy code
+import shap
+
+# Explain the model's predictions using SHAP
+explainer = shap.TreeExplainer(best_model)
+shap_values = explainer.shap_values(X_test)
+
+# Summary plot
+shap.summary_plot(shap_values[1], X_test)
+Insights and Decision-Making
+Key Insights:
+
+Identify the most significant factors contributing to customer churn.
+Highlight the segments of customers with the highest risk of churn.
+Recommendations:
+
+Develop targeted retention strategies based on the identified risk factors.
+Implement proactive measures such as personalized offers, improved customer service, and loyalty programs.
+Future Predictions:
+
+Use the trained model to predict future churn rates and identify at-risk customers.
+Continuously monitor and update the model with new data to maintain its accuracy.
+Conclusion
+Summarize the findings, emphasizing the importance of predicting customer churn and the actionable insights derived from the analysis. Provide a strategic plan for implementing retention strategies and continuously improving the model.
+
+By following this comprehensive guide, a business analyst can effectively analyze and predict customer churn, providing valuable insights and actionable recommendations to stakeholders.
+
+CONTENT AND THEORY FOR DATA ANALYST:
+
+To provide a complete content and theory for a business analyst focusing on the Employee Attrition and Performance project, we'll cover several key areas: understanding the business problem, data preparation, data analysis, predictive modeling, and insights for decision-making.
+
+Business Problem Understanding
+Objective:
+
+Gain qualitative insights into employee attrition.
+Investigate who, when, and why attrition events occur.
+Predict quantitative aspects of HR dynamics for the next 5-10 years.
+Achieve optimal talent utilization by balancing attrition and retention.
+Key Questions:
+
+Who is leaving the company?
+When are employees leaving?
+Why are employees leaving?
+How can we predict future attrition?
+What strategies can be implemented to improve retention?
+Data Preparation
+Data Collection:
+
+Gather data from HR systems, employee surveys, exit interviews, performance reviews, and other relevant sources.
+Data Cleaning:
+
+Remove duplicates and irrelevant records.
+Handle missing values by using appropriate methods (mean/median imputation, deletion, etc.).
+Ensure consistent data types (dates, numerical values, categorical values).
+Data Structuring:
+
+Organize data into relevant tables or datasets, ensuring each attribute is clearly defined (e.g., employee ID, age, department, tenure, performance rating, attrition status).
+Data Analysis
+Descriptive Analysis:
+
+Attrition Rate Calculation:
+Calculate the overall attrition rate and break it down by different segments (e.g., department, job role, age group).
+
+sql
+Copy code
+SELECT department, COUNT(*) as total_employees, 
+       SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) as attrition_count,
+       (SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*)) * 100 as attrition_rate
+FROM employee_data
+GROUP BY department;
+Performance Analysis:
+Examine the distribution of performance ratings across various departments and roles.
+
+sql
+Copy code
+SELECT department, AVG(performance_rating) as avg_performance
+FROM employee_data
+GROUP BY department;
+Visualization:
+
+Use Excel, Python (matplotlib, seaborn), or R (ggplot2) to create visualizations such as histograms, bar charts, box plots, and scatter plots.
+
+Example in Python:
+
+python
+Copy code
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Attrition by Department
+sns.countplot(x='department', hue='attrition', data=df)
+plt.title('Attrition by Department')
+plt.show()
+
+# Performance Rating Distribution
+sns.boxplot(x='department', y='performance_rating', data=df)
+plt.title('Performance Rating by Department')
+plt.show()
+Predictive Modeling
+Choosing the Right Model:
+
+For attrition prediction, use classification models like Logistic Regression, Decision Trees, Random Forests, or Gradient Boosting.
+Feature Selection:
+
+Identify relevant features such as age, salary, tenure, department, job role, performance rating, and work-life balance.
+Model Training and Evaluation:
+
+Split the data into training and testing sets.
+
+Train the model using the training set.
+
+Evaluate the model using metrics such as accuracy, precision, recall, and F1-score.
+
+Example in Python:
+
+python
+Copy code
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+# Feature selection
+X = df[['age', 'salary', 'tenure', 'performance_rating', 'work_life_balance']]
+y = df['attrition'].apply(lambda x: 1 if x == 'Yes' else 0)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Model training
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Prediction and evaluation
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+Insights and Decision-Making
+Key Insights:
+
+Identify the primary factors contributing to employee attrition.
+Highlight the departments or roles with the highest attrition rates.
+Analyze the correlation between performance ratings and attrition.
+Recommendations:
+
+Develop targeted retention strategies for high-risk groups.
+Implement initiatives to improve work-life balance and job satisfaction.
+Regularly review and adjust compensation and benefits to stay competitive.
+Future Predictions:
+
+Use the trained model to predict future attrition trends.
+Plan workforce requirements and talent acquisition strategies based on predictive insights.
+
+
+CONCLUSION:
+Conclusion for the Business Analyst Internship
+Summary of Achievements
+During the course of this internship, significant progress was made in understanding and addressing critical business challenges related to employee attrition and customer churn. The following key accomplishments were achieved:
+
+Employee Attrition and Performance Analysis:
+
+Data Cleaning and Preparation: Successfully cleaned and prepared large datasets, ensuring data integrity and consistency.
+Qualitative and Quantitative Analysis: Conducted comprehensive analysis to identify key factors contributing to employee attrition, such as department, age, and tenure.
+Predictive Modeling: Developed and validated predictive models to forecast future attrition trends using machine learning techniques in Python, such as logistic regression and random forests.
+Insights and Recommendations: Provided actionable insights to optimize talent utilization and improve retention strategies, which were well-received by HR stakeholders.
+Customer Churn Prediction:
+
+Exploratory Data Analysis (EDA): Performed thorough EDA to understand the distribution and relationships within the customer dataset.
+Predictive Modeling: Implemented and fine-tuned machine learning models to predict customer churn, leveraging tools such as GridSearchCV for hyperparameter tuning and SHAP for model explainability.
+Key Insights and Recommendations: Identified major factors driving customer churn and recommended targeted retention strategies to mitigate churn rates.
+Future Churn Forecasting: Built robust models capable of predicting future churn rates, enabling proactive measures to retain high-risk customers.
+Skills and Tools Acquired
+Throughout this internship, several valuable skills and tools were acquired and honed, including:
+
+Data Analysis and Visualization:
+
+Proficiency in using Excel for data cleaning and initial analysis.
+Advanced skills in Python (pandas, seaborn, matplotlib) and SQL for comprehensive data analysis and extraction.
+Machine Learning and Predictive Modeling:
+
+Hands-on experience with machine learning algorithms and frameworks in Python (scikit-learn, XGBoost).
+Expertise in hyperparameter tuning using GridSearchCV and RandomSearchCV.
+Utilization of SHAP for model interpretability and explaining predictions to stakeholders.
+Business Insight Development:
+
+Ability to translate complex data findings into clear, actionable business insights and recommendations.
+Effective communication of technical results to non-technical stakeholders.
+Impact and Future Directions
+The work conducted during this internship has had a meaningful impact on the organization by providing deeper insights into employee attrition and customer churn dynamics. The predictive models and strategic recommendations have empowered stakeholders to make data-driven decisions aimed at improving retention and optimizing overall business performance.
+
+Moving forward, continuous improvement of the models with new data, regular monitoring of key metrics, and iterative testing of retention strategies will be crucial. Additionally, expanding the scope of analysis to include more granular data and exploring advanced analytics techniques will further enhance the organization's ability to retain valuable employees and customers.
+
+Personal Growth
+This internship has been an invaluable learning experience, contributing significantly to personal and professional growth. The opportunity to work on real-world business problems, apply advanced analytical techniques, and collaborate with experienced professionals has enriched my understanding of the role of a business analyst. I am confident that the skills and knowledge gained during this internship will be instrumental in my future career endeavors.
+
+Thank you for providing this opportunity and for the support and guidance throughout the internship. I look forward to applying these insights and skills in future projects and contributing to the success of the organization.
+
+BASIC PROJECT TASK 3:
+Task 3 : Store Sales Prediction
+
+Project Summary: Engage in projects focusing on numeric and categorical feature variables, conducting univariate and bivariate analysis to identify redundancy in variables linked to a company's store chain. Learn machine learning models, including the ARIMA time series model, for comprehensive data insights.
+
+SOLUTION AND COMPLETE INFORMATION CODE FOR THIS PROJECT:
+
+CONTENT AND INFORMATION FOR THE BUSINESS ANALYST:
+
+Business Analyst Overview
+A Business Analyst (BA) plays a crucial role in bridging the gap between business stakeholders and IT teams. They are responsible for understanding business needs, identifying problems, and proposing solutions to improve business processes and systems. Here is a comprehensive guide to the roles, skills, methodologies, and tools used by Business Analysts.
+
+Key Responsibilities
+Requirements Gathering:
+
+Engage with stakeholders to gather detailed requirements.
+Conduct interviews, surveys, and workshops to understand business needs.
+Business Process Modeling:
+
+Create models to visualize business processes (e.g., flowcharts, BPMN diagrams).
+Identify inefficiencies and propose improvements.
+Data Analysis:
+
+Analyze data to identify trends, patterns, and insights.
+Use data to support decision-making and validate business strategies.
+Solution Design:
+
+Define functional and non-functional requirements for solutions.
+Work with IT teams to ensure solutions meet business needs.
+Project Management:
+
+Help plan and manage project timelines and deliverables.
+Ensure projects stay on track and within scope.
+Testing and Validation:
+
+Develop test plans and cases to ensure solutions meet requirements.
+Facilitate user acceptance testing (UAT).
+Stakeholder Communication:
+
+Act as a liaison between stakeholders and technical teams.
+Ensure clear and continuous communication throughout the project lifecycle.
+Essential Skills
+Analytical Thinking:
+
+Ability to dissect complex problems and identify root causes.
+Strong numerical and statistical analysis skills.
+Communication:
+
+Excellent verbal and written communication skills.
+Ability to translate technical jargon into business language.
+Problem-Solving:
+
+Innovative thinking to propose effective solutions.
+Ability to anticipate and address potential issues.
+Technical Proficiency:
+
+Familiarity with databases, SQL, and data analysis tools.
+Basic understanding of software development and IT infrastructure.
+Project Management:
+
+Ability to plan, execute, and monitor project progress.
+Knowledge of project management methodologies (e.g., Agile, Waterfall).
+Interpersonal Skills:
+
+Strong relationship-building capabilities.
+Ability to work effectively with diverse teams.
+Methodologies
+Waterfall:
+
+A linear and sequential approach.
+Suitable for projects with well-defined requirements.
+Agile:
+
+An iterative and incremental approach.
+Emphasizes flexibility, collaboration, and customer feedback.
+Common frameworks: Scrum, Kanban.
+Lean:
+
+Focuses on maximizing value by minimizing waste.
+Emphasizes continuous improvement and efficiency.
+Six Sigma:
+
+A data-driven approach to improve quality by identifying and removing defects.
+Utilizes DMAIC (Define, Measure, Analyze, Improve, Control) process.
+Tools and Technologies
+Requirement Management:
+
+JIRA: Agile project management and issue tracking.
+Confluence: Collaboration and documentation tool.
+Data Analysis:
+
+Excel: Data analysis, visualization, and modeling.
+SQL: Database querying and manipulation.
+Tableau: Data visualization and business intelligence.
+Power BI: Interactive data visualization and reporting.
+Business Process Modeling:
+
+Lucidchart: Diagramming and flowchart tool.
+Visio: Business process modeling and diagramming.
+Collaboration and Communication:
+
+Slack: Team communication and collaboration.
+Microsoft Teams: Team collaboration and communication platform.
+Zoom: Video conferencing and virtual meetings.
+Testing:
+
+Selenium: Automated testing for web applications.
+TestRail: Test case management and tracking.
+Career Path and Progression
+Entry-Level:
+
+Junior Business Analyst or Business Analyst Intern.
+Focus on learning core BA skills and methodologies.
+Mid-Level:
+
+Business Analyst or Senior Business Analyst.
+Handle more complex projects and start leading initiatives.
+Senior-Level:
+
+Lead Business Analyst or Principal Business Analyst.
+Take on strategic roles, manage teams, and influence business strategy.
+Management:
+
+Business Analysis Manager or Director of Business Analysis.
+Oversee multiple projects and drive business analysis practices within the organization.
+Specialization:
+
+Business Process Analyst, Data Analyst, or Systems Analyst.
+Focus on specific areas of expertise.
+Consultancy:
+
+Business Consultant or Management Consultant.
+Provide expert advice to organizations on business improvement.
+Certifications
+Certified Business Analysis Professional (CBAP):
+
+Offered by the International Institute of Business Analysis (IIBA).
+Recognizes expertise in business analysis.
+Certification of Competency in Business Analysis (CCBA):
+
+Also offered by IIBA.
+For individuals with less experience than required for CBAP.
+PMI Professional in Business Analysis (PMI-PBA):
+
+Offered by the Project Management Institute (PMI).
+Combines project management and business analysis skills.
+Agile Analysis Certification (AAC):
+
+Offered by IIBA.
+Focuses on agile business analysis practices.
+Conclusion
+The role of a Business Analyst is integral to the success of any organization. By leveraging data, understanding business needs, and bridging the gap between stakeholders and technical teams, BAs help drive efficient and effective solutions. The combination of analytical skills, technical proficiency, and strong communication abilities makes BAs key players in the strategic planning and execution of business projects.
+
+This internship has provided a comprehensive understanding of the various aspects of business analysis, including hands-on experience with data analysis, predictive modeling, and stakeholder communication. The skills and knowledge acquired during this period will be invaluable in pursuing a successful career as a Business Analyst, contributing to the success of future projects and the overall growth of the organization.
+
+
+
+
+
+
+
+INTERNSHIP TASKS:
+
+To complete the Store Sales Prediction project, we will focus on understanding the business problem, data preparation, univariate and bivariate analysis, and implementing machine learning models, including ARIMA for time series analysis. Here's a structured approach:
+
+Step-by-Step Guide
+1. Business Problem Understanding
+Objective:
+
+Predict future sales for a company's store chain.
+Identify key factors influencing sales performance.
+Provide actionable insights to optimize inventory, staffing, and marketing strategies.
+Key Questions:
+
+What are the current sales trends?
+Which factors most significantly impact store sales?
+How can we accurately forecast future sales?
+What strategies can be implemented to improve sales performance?
+Data Preparation
+Data Collection:
+
+Gather data from sales records, store information, promotions, holidays, and other relevant sources.
+Data Cleaning:
+
+Remove duplicates and irrelevant records.
+Handle missing values using appropriate methods (imputation, deletion, etc.).
+Ensure data types are consistent and correct (dates, numerical values, categorical values).
+Data Structuring:
+
+Organize data into relevant tables or datasets with clear attribute definitions (e.g., store ID, date, sales, promotions, holidays).
+Univariate and Bivariate Analysis
+Univariate Analysis:
+
+Analyze individual features to understand their distribution and identify any anomalies.
+
+Example in Python:
+
+python
+Copy code
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load data
+df = pd.read_csv('store_sales_data.csv')
+
+# Sales distribution
+sns.histplot(df['sales'], kde=True)
+plt.title('Sales Distribution')
+plt.show()
+
+# Sales by store type
+sns.boxplot(x='store_type', y='sales', data=df)
+plt.title('Sales by Store Type')
+plt.show()
+Bivariate Analysis:
+
+Analyze the relationship between pairs of variables to identify correlations and potential redundancy.
+
+Example in Python:
+
+python
+Copy code
+# Correlation matrix
+corr_matrix = df.corr()
+sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
+plt.title('Correlation Matrix')
+plt.show()
+
+# Sales vs. promotions
+sns.scatterplot(x='promotions', y='sales', data=df)
+plt.title('Sales vs. Promotions')
+plt.show()
+
+# Sales over time
+df['date'] = pd.to_datetime(df['date'])
+df.set_index('date', inplace=True)
+df['sales'].plot()
+plt.title('Sales Over Time')
+plt.show()
+Machine Learning Models
+Feature Engineering:
+
+Create new features if necessary (e.g., rolling averages, lag features for time series analysis).
+Model Selection:
+
+Choose appropriate models for sales prediction, including ARIMA for time series analysis and other regression models for cross-sectional data.
+ARIMA Time Series Model:
+
+1. Time Series Decomposition:
+Decompose the time series data to understand its components (trend, seasonality, and residuals).
+
+Example in Python:
+
+python
+Copy code
+from statsmodels.tsa.seasonal import seasonal_decompose
+
+result = seasonal_decompose(df['sales'], model='additive', period=12)
+result.plot()
+plt.show()
+2. ARIMA Model:
+Fit the ARIMA model to the time series data.
+
+Example in Python:
+
+python
+Copy code
+from statsmodels.tsa.arima.model import ARIMA
+
+# Define the model
+model = ARIMA(df['sales'], order=(5,1,0))
+model_fit = model.fit()
+
+# Summary of the model
+print(model_fit.summary())
+
+# Forecasting
+forecast = model_fit.forecast(steps=12)
+plt.plot(forecast)
+plt.title('Sales Forecast')
+plt.show()
+Other Regression Models:
+
+Implement other regression models like Linear Regression, Random Forest, or Gradient Boosting for cross-sectional data analysis.
+
+Example in Python:
+
+python
+Copy code
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
+
+# Feature selection
+X = df[['store_type', 'promotions', 'holiday', 'store_size']]
+y = df['sales']
+
+# One-hot encoding for categorical variables
+X = pd.get_dummies(X, drop_first=True)
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Model training
+model = RandomForestRegressor(random_state=42)
+model.fit(X_train, y_train)
+
+# Prediction and evaluation
+y_pred = model.predict(X_test)
+mse = mean_squared_error(y_test, y_pred)
+print(f'Mean Squared Error: {mse}')
+Insights and Decision-Making
+Key Insights:
+
+Identify the primary factors influencing sales performance.
+Highlight the trends and patterns observed from the time series analysis.
+Recommendations:
+
+Develop strategies based on the identified factors to improve sales (e.g., targeted promotions, optimizing store operations).
+Implement inventory and staffing adjustments based on sales forecasts.
+Future Sales Forecasting:
+
+Use the trained models to predict future sales and make informed business decisions.
+Continuously monitor and update the models with new data to maintain accuracy.
+Conclusion
+Summarize the findings, emphasizing the importance of accurate sales prediction and the actionable insights derived from the analysis. Provide a strategic plan for implementing the recommendations and continuously improving the prediction models.
+
+By following this comprehensive guide, a business analyst can effectively analyze and predict store sales, providing valuable insights and actionable recommendations to optimize business performance.
+
+Conclusion for the Business Analyst Internship
+Summary of Achievements
+During the internship, significant progress was made in understanding and addressing key business challenges related to employee attrition, customer churn, and store sales prediction. The following key accomplishments were achieved:
+
+Employee Attrition and Performance Analysis:
+
+Successfully cleaned and prepared large datasets, ensuring data integrity.
+Conducted comprehensive qualitative and quantitative analysis to identify key factors contributing to employee attrition.
+Developed and validated predictive models to forecast future attrition trends.
+Provided actionable insights to optimize talent utilization and improve retention strategies.
+Customer Churn Prediction:
+
+Performed thorough exploratory data analysis to understand the distribution and relationships within the customer dataset.
+Implemented and fine-tuned machine learning models to predict customer churn.
+Identified major factors driving customer churn and recommended targeted retention strategies.
+Built robust models capable of predicting future churn rates, enabling proactive measures to retain high-risk customers.
+Store Sales Prediction:
+
+Conducted univariate and bivariate analysis to identify key factors influencing store sales.
+Implemented ARIMA for time series analysis and other regression models for sales prediction.
+Provided insights and recommendations to optimize inventory, staffing, and marketing strategies.
+Skills and Tools Acquired
+Throughout this internship, several valuable skills and tools were acquired and honed, including:
+
+Data Analysis and Visualization:
+
+Proficiency in using Excel for data cleaning and initial analysis.
+Advanced skills in Python (pandas, seaborn, matplotlib) and SQL for comprehensive data analysis and extraction.
+Machine Learning and Predictive Modeling:
+
+Hands-on experience with machine learning algorithms and frameworks in Python (scikit-learn, XGBoost).
+Expertise in time series analysis with ARIMA.
+Utilization of GridSearchCV and RandomSearchCV for hyperparameter tuning.
+Proficiency in using SHAP for model interpretability.
+Business Insight Development:
+
+Ability to translate complex data findings into clear, actionable business insights and recommendations.
+Effective communication of technical results to non-technical stakeholders.
+Impact and Future Directions
+The work conducted during this internship has had a meaningful impact on the organization by providing deeper insights into employee attrition, customer churn, and store sales dynamics. The predictive models and strategic recommendations have empowered stakeholders to make data-driven decisions aimed at improving retention and optimizing overall business performance.
+
+Moving forward, continuous improvement of the models with new data, regular monitoring of key metrics, and iterative testing of strategies will be crucial. Additionally, expanding the scope of analysis to include more granular data and exploring advanced analytics techniques will further enhance the organization's ability to retain valuable employees and customers and optimize store operations.
+
+Personal Growth
+This internship has been an invaluable learning experience, contributing significantly to personal and professional growth. The opportunity to work on real-world business problems, apply advanced analytical techniques, and collaborate with experienced professionals has enriched my understanding of the role of a business analyst. I am confident that the skills and knowledge gained during this internship will be instrumental in my future career endeavors.
+
+Thank you for providing this opportunity and for the support and guidance throughout the internship. I look forward to applying these insights and skills in future projects and contributing to the success of the organization.
+
+
+CONCLUSION FOR BUSINESS ANALYST INTERNSHIP:
+Conclusion for the Business Analyst Internship
+Summary of Achievements
+Throughout the internship, significant progress was made in understanding and addressing key business challenges through data analysis, predictive modeling, and stakeholder engagement. Key projects and their outcomes include:
+
+Employee Attrition and Performance Analysis:
+
+Data Preparation and Cleaning: Ensured data integrity and consistency by meticulously cleaning and preparing large datasets.
+Qualitative and Quantitative Analysis: Identified critical factors contributing to employee attrition, such as department, age, and tenure.
+Predictive Modeling: Developed and validated models to forecast future attrition trends using Python, aiding HR in strategic planning.
+Recommendations: Provided actionable insights to optimize talent utilization and improve retention strategies, well-received by HR stakeholders.
+Customer Churn Prediction:
+
+Exploratory Data Analysis (EDA): Conducted thorough EDA to understand the distribution and relationships within the customer dataset.
+Machine Learning Models: Implemented and fine-tuned models to predict customer churn, utilizing GridSearchCV for hyperparameter tuning and SHAP for model explainability.
+Insights and Recommendations: Identified major factors driving customer churn and recommended targeted retention strategies to mitigate churn rates.
+Future Forecasting: Built robust models capable of predicting future churn rates, enabling proactive measures to retain high-risk customers.
+Store Sales Prediction:
+
+Data Analysis: Performed univariate and bivariate analysis to identify key factors influencing store sales.
+ARIMA Time Series Model: Implemented ARIMA for time series analysis to forecast future sales trends.
+Other Regression Models: Utilized regression models for cross-sectional data analysis, providing comprehensive insights into sales dynamics.
+Strategic Recommendations: Provided actionable insights to optimize inventory, staffing, and marketing strategies, contributing to overall business performance.
+Skills and Tools Acquired
+Throughout this internship, several valuable skills and tools were acquired and honed:
+
+Data Analysis and Visualization:
+
+Proficiency in using Excel for data cleaning and initial analysis.
+Advanced skills in Python (pandas, seaborn, matplotlib) and SQL for comprehensive data analysis and extraction.
+Machine Learning and Predictive Modeling:
+
+Hands-on experience with machine learning algorithms and frameworks in Python (scikit-learn, XGBoost).
+Expertise in time series analysis with ARIMA.
+Proficiency in hyperparameter tuning using GridSearchCV and RandomSearchCV.
+Utilization of SHAP for model interpretability.
+Business Insight Development:
+
+Ability to translate complex data findings into clear, actionable business insights and recommendations.
+Effective communication of technical results to non-technical stakeholders.
+Impact and Future Directions
+The work conducted during this internship has provided valuable insights into employee attrition, customer churn, and store sales dynamics. The predictive models and strategic recommendations developed have empowered stakeholders to make data-driven decisions, optimizing business performance.
+
+Future Directions:
+
+Model Improvement: Continuously improve the models with new data and regularly monitor key metrics.
+Advanced Analytics: Explore more granular data and advanced analytics techniques to enhance predictive capabilities.
+Strategic Implementation: Implement and test the recommended strategies to improve retention and sales performance, iteratively refining them based on results.
+Personal Growth
+This internship has been an invaluable learning experience, significantly contributing to personal and professional growth. Key takeaways include:
+
+Real-World Problem Solving: Gained hands-on experience in addressing real-world business problems through data analysis and predictive modeling.
+Collaboration: Collaborated with experienced professionals, enhancing teamwork and communication skills.
+Career Development: Acquired a deep understanding of the role of a Business Analyst, equipping me with the skills and knowledge necessary for future career success.
+Appreciation
+Thank you for providing this opportunity and for the support and guidance throughout the internship. The experience has been instrumental in shaping my career path, and I look forward to applying the insights and skills gained in future projects, contributing to the success of the organization.
+
+
+CONCLUSION FOR THIS INTERNSHIP :
+
+Conclusion
+In conclusion, the Business Analyst Internship at [Company Name] represents a valuable opportunity to apply my academic knowledge and analytical skills in a real-world setting. My background in [Your Major] and experience with data analysis tools such as Excel, SQL, and Tableau have prepared me to contribute effectively to your team. Throughout this internship, I aim to gain deeper insights into the business analysis process, from understanding and documenting business needs to evaluating solutions and communicating findings.
+
+I am particularly excited about the chance to work at [Company Name] due to its innovative approach to [specific industry/field] and its commitment to excellence and continuous improvement. I am confident that my enthusiasm for data-driven decision-making and my strong problem-solving abilities will enable me to make meaningful contributions to your projects.
+
+Thank you for considering my application. I am eager to bring my skills, dedication, and passion for business analysis to [Company Name] and to learn from the talented professionals on your team. I look forward to the possibility of discussing how I can support your organization’s objectives and grow as a business analyst.
+
+Sincerely,
+[MANDA VENKAIAH]
+[7680926068]
+[Venkyvenkaiah789@gmail.com]
+
+
+THANK YOU SIR / MADAM ...........
+
+
+
+
+
+
+
+
+
